@@ -1,8 +1,8 @@
 [![Website](https://img.shields.io/badge/Website-IDE-b31b1b.svg?logo=Leaflet)](https://hakamshams.github.io/IDE/)
 [![Paper](https://img.shields.io/badge/Paper-to..appear-b31b1b.svg?logo=openaccess)]()
-[![GitHub](https://img.shields.io/badge/Code-IDEE-b31b1b.svg?logo=GitHub)]() <br>
-![Python 3.10](https://img.shields.io/badge/python-3.10-green.svg)
-![License MIT](https://img.shields.io/badge/license-MIT-green.svg)
+[![GitHub](https://img.shields.io/badge/Code-IDEE-b31b1b.svg?logo=GitHub)]()
+![Python 3.10](https://img.shields.io/badge/python-3.10-purple.svg)
+![License MIT](https://img.shields.io/badge/license-MIT-purple.svg)
 
 <!--- [![arXiv](https://img.shields.io/badge/arXiv-to..appear-b31b1b?logo=Arxiv)]() --->
 
