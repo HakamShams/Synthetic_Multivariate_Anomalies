@@ -203,7 +203,7 @@ Coupling is also used to define a random coupling matrix between the variables a
  
   You can also download the data via [script/download_synthetic.sh](scripts/download_synthetic.sh):
   ```
-   wget --continue  https://bonndata.uni-bonn.de/api/access/datafile/7506
+   wget --continue  https://bonndata.uni-bonn.de/api/access/datafile/7506 -O Synthetic.7z
   ```
   To extract the files you need the 7-Zip:
   ```
@@ -223,7 +223,7 @@ Coupling is also used to define a random coupling matrix between the variables a
 
 
 ### Citation
-If you find our work useful for you, please cite:
+If you find our work useful, please cite:
 
 ```
 
