@@ -78,6 +78,48 @@ For pip, you can install dependencies using the requirements.txt file:
 
 The code has been tested under Python 3.10.6 on Ubuntu 20.04.5 LTS.
 
+
+### Structure
+```
+├── configs
+│   ├── exp_1.py
+│   ├── exp_2.py
+│   ├── exp_331.py
+│   ├── exp_332.py
+│   ├── exp_333.py
+│   ├── exp_334.py
+│   ├── exp_335.py
+│   └── exp_3.py
+├── data_base
+│   └── index.gitkeep
+├── docs
+│   ├── gifs
+│   │   └── animation_exp_3.gif
+│   └── images
+│       ├── 1314_14_exp1.jpg
+│       ├── coupling_matrix_exp_3.png
+│       ├── era5.png
+│       ├── NeurIPS-logo.svg
+│       ├── neurips-navbar-logo.svg
+│       └── time_series_50_50_exp_3.png
+├── log
+│   └── index.gitkeep
+├── main.py
+├── README.md
+├── requirements.txt
+├── scripts
+│   └── download_synthetic.sh
+├── src
+│   ├── base.py
+│   ├── coupling.py
+│   ├── datacube.py
+│   ├── event.py
+│   ├── noise.py
+│   ├── utils.py
+│   └── weight.py
+└── visualize_datacube.py
+```
+
 ### Configuration:
 
 The configuration file to generate the data is stored in the directory [configs](configs). 
