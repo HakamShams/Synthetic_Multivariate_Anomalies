@@ -1,6 +1,7 @@
-[![Website](https://img.shields.io/badge/Website-IDE-b31b1b.svg?logo=Leaflet)](https://hakamshams.github.io/IDE/)
-[![Paper](https://img.shields.io/badge/Paper-to..appear-b31b1b.svg?logo=openaccess)]()
-[![GitHub](https://img.shields.io/badge/Code-IDEE-b31b1b.svg?logo=GitHub)]()
+[![Website](https://img.shields.io/badge/Website-IDE-CBBD93.svg?logo=Leaflet)](https://hakamshams.github.io/IDE/)
+[![Paper](https://img.shields.io/badge/Paper-to..appear-CBBD93.svg?logo=openaccess)]()
+[![ArXiv](https://img.shields.io/badge/ArXiv-2410.24075-CBBD93.svg?logo=arxiv)](https://arxiv.org/abs/2410.24075)
+[![GitHub](https://img.shields.io/badge/Code-IDEE-CBBD93.svg?logo=GitHub)](https://github.com/HakamShams/IDEE)
 ![Python 3.10](https://img.shields.io/badge/python-3.10-purple.svg)
 ![License MIT](https://img.shields.io/badge/license-MIT-purple.svg)
 
@@ -14,7 +15,7 @@
 Computer Vision Group, Institute of Computer Science III, University of Bonn.
 
 This is the code to generate the synthetic data presented in the paper:
-["**Identifying Spatio-Temporal Drivers of Extreme Events**"]() by [Mohamad Hakam Shams Eddin](https://hakamshams.github.io/), and [Juergen Gall](http://pages.iai.uni-bonn.de/gall_juergen/). Accepted at [NeurIPS'24](https://neurips.cc/Conferences/2024).
+["**Identifying Spatio-Temporal Drivers of Extreme Events**"](https://arxiv.org/abs/2410.24075) by [Mohamad Hakam Shams Eddin](https://hakamshams.github.io/), and [Juergen Gall](http://pages.iai.uni-bonn.de/gall_juergen/). Accepted at [NeurIPS'24](https://neurips.cc/Conferences/2024).
 
 ### [Website](https://hakamshams.github.io/IDE/) | Paper
 
