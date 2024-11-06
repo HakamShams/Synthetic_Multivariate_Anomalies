@@ -1,5 +1,5 @@
 [![Website](https://img.shields.io/badge/Website-IDE-CBBD93.svg?logo=Leaflet)](https://hakamshams.github.io/IDE/)
-[![Paper](https://img.shields.io/badge/Paper-to..appear-CBBD93.svg?logo=openaccess)]()
+[![Paper](https://img.shields.io/badge/Paper-Openreview-CBBD93.svg?logo=openaccess)](https://openreview.net/forum?id=DdKdr4kqxh)
 [![ArXiv](https://img.shields.io/badge/ArXiv-2410.24075-CBBD93.svg?logo=arxiv)](https://arxiv.org/abs/2410.24075)
 [![GitHub](https://img.shields.io/badge/Code-IDEE-CBBD93.svg?logo=GitHub)](https://github.com/HakamShams/IDEE)
 ![Python 3.10](https://img.shields.io/badge/python-3.10-purple.svg)
@@ -17,7 +17,7 @@ Computer Vision Group, Institute of Computer Science III, University of Bonn.
 This is the code to generate the synthetic data presented in the paper:
 ["**Identifying Spatio-Temporal Drivers of Extreme Events**"](https://arxiv.org/abs/2410.24075) by [Mohamad Hakam Shams Eddin](https://hakamshams.github.io/), and [Juergen Gall](http://pages.iai.uni-bonn.de/gall_juergen/). Accepted at [NeurIPS'24](https://neurips.cc/Conferences/2024).
 
-### [Website](https://hakamshams.github.io/IDE/) | Paper
+### [Website](https://hakamshams.github.io/IDE/) | [Paper](https://openreview.net/forum?id=DdKdr4kqxh)
 
 ![Synthetic CERRA Reanalysis](docs/gifs/animation_exp_3.gif)
 
@@ -227,9 +227,14 @@ Coupling is also used to define a random coupling matrix between the variables a
 If you find our work useful, please cite:
 
 ```
-
-To appear on Openreview ...
-
+@inproceedings{
+eddin2024identifying,
+title={Identifying Spatio-Temporal Drivers of Extreme Events},
+author={Mohamad Hakam Shams Eddin and Juergen Gall},
+booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+year={2024},
+url={https://openreview.net/forum?id=DdKdr4kqxh}
+}
 ```
 
 ### Acknowledgments
