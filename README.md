@@ -15,7 +15,7 @@
 Computer Vision Group, Institute of Computer Science III, University of Bonn.
 
 This is the code to generate the synthetic data presented in the paper:
-["**Identifying Spatio-Temporal Drivers of Extreme Events**"](https://arxiv.org/abs/2410.24075) by [Mohamad Hakam Shams Eddin](https://hakamshams.github.io/), and [Juergen Gall](http://pages.iai.uni-bonn.de/gall_juergen/). Accepted at [NeurIPS'24](https://neurips.cc/Conferences/2024).
+["**Identifying Spatio-Temporal Drivers of Extreme Events**"](https://arxiv.org/abs/2410.24075) by [Mohamad Hakam Shams Eddin](https://hakamshams.github.io/), and [Juergen Gall](http://pages.iai.uni-bonn.de/gall_juergen/). Accepted at [NeurIPS'24](https://neurips.cc/virtual/2024/poster/96083).
 
 ### [Website](https://hakamshams.github.io/IDE/) | [Paper](https://openreview.net/forum?id=DdKdr4kqxh)
 
